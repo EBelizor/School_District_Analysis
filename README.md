@@ -1,1 +1,52 @@
 # School_District_Analysis
+
+## Overview of School District Analysis
+
+Maria, who is charged with analysing all standardized test data has asked me for help in her anlaysis of performance, trends and proficiency. The reports that we gather has allowed for the district to make informed decisions based on school size, funding and district to name a few. The initital analysis was very successful although it raised some alarming trents. Our Analysis showed potential for academic dishonesty coming Thomas High School, more specifically the 9th graders. 
+
+Since we do not know the extent of the academic dishonesty it is best to remove the data for now in order to truly analyze our data. Maria has asked that I replace the Thomas High School test scores for both reading and math for the 9th grade with NaN's. Replacing the data with NaNs will keep it from tampering with the rest of our analysis and groupings. Once I replaced the data from our dataframes we ran our analysis again in order to truly analyze the other test scores. 
+
+## Results 
+
+### School District Summary 
+
+Our district summary does not see a dramtic change in terms of the average of the test scores, however when we look at the passing percentages we see a relatively larger effect on the daata. 
+
+Our initial analysis is as follows 
+# ![]
+
+Our new analysis is as follows 
+
+#![]
+
+we can see that the exludision of the Thomas High School 9th graders caused for a .19 decrease for our "% Passing Math", a .11 decrease for our "% Passing Reading" and a more dramatic .272 decrease in our "% Overall Passing".
+
+### School Summary 
+
+Our school summary does not see much of a difference as expected considering removing Thomas High School does not affect the other schools at all. In factThomas High School held their standing as the second best performing school in our analysis. Thomas High School did see a slight decrease in their performance overall as seen below. The decrease was however not very significant in the performance of Thomas High School relative to the other High Schools.
+
+#![].image
+
+- How does replacing the ninth-grade scores affect the following:
+    Math and reading scores by grade
+
+For math scores by grade our original for the 9th grade was 80.35
+
+For reading scores by grade the data showed no difference. This could simply be due to the data for the 9th grade reading scores for Thomas High School was at the average.  
+
+### Bin Analysis 
+  Original analysis for spending was as followed.
+
+  Math Percentage = 93.272171	
+  Reading Percentage = 97.308869	
+  Overall Percentage = 90.948012
+
+Scores by school size
+  Considering our bins did not change and Thomas High School belonged to the middle bin, this was naturally where we saw the difference in our passing ratings. Our original data showed a math passing rate of 93.599695, 	a reading passing rate of 96.790680, and an overall passing rate of 90.621535. 
+  
+Scores by school type
+  new type shows a 96.55% passing rate for reading. 90.39 overall passing rate. 
+      
+## Summary 
+
+- summary of four major changes to the school district analysis
