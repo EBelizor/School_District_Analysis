@@ -44,6 +44,10 @@ $630-$644
 - Reading percentage = 84.391793
 - Overall percentage = 62.8576562
 
+Our new Analysis follows below. All the change originated from the bin where Thomas High School originated from. As expected the perfomance of the bin relative to the others declined. 
+
+![](Resources/spending_summary_new.png)
+
 #### Scores by school size
 
   Considering our bins did not change and Thomas High School belonged to the middle bin, this was naturally where we saw the difference in our passing ratings. Our original data showed a math passing rate of 93.599695, 	a reading passing rate of 96.790680, and an overall passing rate of 90.621535. 
