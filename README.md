@@ -58,4 +58,12 @@ Our new analysis of bins by school size as we excluded Thomas High School brough
       
 ## Summary 
 
-- summary of four major changes to the school district analysis
+Our new analysis does not pose much dramtic change compared to our original analysis. The exlusion of Thomas High School ninth grades seemed to affect the portions where the grades where most prevalent as opposed to other grades. Where "9th" grades were the main source of our analysis was were we saw the biggest changes to our data. The areas most impacted by our new analysis were as follows. 
+
+- School District Summary (percentages)
+- Math test scores for 9th graders
+- Spending
+- Scores by School Size
+
+The removal of Thomas High School 9th grade data is slighly alarming. Not only did the performance of Thomas High School 9th grade scores decrease their overall performance, it decreased the math, reading, and overall passing rates of our analysis as well. The extent of the academic dishonesty is unknown, but it is clear that Thomas High Schools scores were above the average of the other shcools especially those in their same spending and size.
+
